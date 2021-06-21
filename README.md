@@ -1,4 +1,4 @@
-# Dataiku-Technical-Test 
+# DS Project Sample 
 
 The aim of the project is to predict whether a given person with their attributes earns annually more than $50k or not.
 
